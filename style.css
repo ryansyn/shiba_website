@@ -1,0 +1,61 @@
+* {
+    margin: auto;
+    padding: 0px;
+    font-family: "IBM Plex Sans", sans-serif;
+    font-size: 100%;
+    color: rgb(199, 213, 224);
+}
+
+body {
+    background-image: url(https://i.pinimg.com/originals/80/65/4c/80654cdc66b828e142f7e1b3d98517d0.jpg);
+    background-size: 100%;
+    overflow-x: hidden;
+}
+
+/* div classes */
+.nav {
+    position: relative;
+    text-align: center;
+    height: 39px;
+    border-style: solid;
+    background-image: linear-gradient(to bottom left, rgb(23, 26, 33), rgb(42, 71, 94));
+    border: none;
+    bottom: 4px;
+}
+
+.container {
+    width: 600px;
+    position: relative;
+    text-align: center;
+    border-style: solid;
+    background-image: linear-gradient(to bottom left, rgb(23, 26, 33), rgb(42, 71, 94));
+    border: none;
+    border-radius: 4px;
+}
+
+/* text classes */
+.nav-title {
+    font-size: 120%;
+    position: relative;
+    text-align: center;
+    top: 10px;
+}
+
+.title-text {
+    padding: 4px 0px 0px;
+    font-size: 100%;
+    position: relative;
+    text-align: center;
+}
+
+.standard-text {
+    padding: 4px 10px 0px;
+    font-size: 100%;
+    position: relative;
+    text-align: left;
+}
+
+/* misc */
+.bottom-alignment-text {
+    bottom: auto;
+}
