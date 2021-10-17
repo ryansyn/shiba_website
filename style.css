@@ -9,6 +9,8 @@
 body {
     background-image: url(https://i.pinimg.com/originals/80/65/4c/80654cdc66b828e142f7e1b3d98517d0.jpg);
     background-size: 100%;
+    background-repeat: no-repeat;
+    background-color: rgba(15,18,31,255);
     overflow-x: hidden;
 }
 
